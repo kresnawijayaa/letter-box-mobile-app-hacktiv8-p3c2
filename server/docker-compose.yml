@@ -1,0 +1,25 @@
+services:
+  orchestrator:
+    build: ./orchestrator
+    ports:
+      - "80:4000"
+    environment:
+      BASE_URL_MOVIE: http://service-app:4002
+      BASE_URL_USER: http://service-user:4001
+  service-app:
+    build: ./services/app
+    ports:
+      - "4002:4002"
+    environment:
+      NODE_ENV: production
+      JWT_SECRET: ${JWT_SECRET}
+      DATABASE_URL: ${DATABASE_URL}
+  service-user:
+    build: ./services/users/node_quickstart
+    ports:
+      - "4001:4001"
+    environment:
+      NODE_ENV: production
+      MONGO_ATLAS_PW: ${MONGO_ATLAS_PW}
+      REDIS_HOST: ${REDIS_HOST}
+      REDIS_PASSWORD: ${REDIS_PASSWORD}

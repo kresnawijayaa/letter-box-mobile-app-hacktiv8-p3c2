@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Barbie",
+    "slug": "barbie",
+    "synopsis": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+    "trailerUrl": "https://www.youtube.com/watch?v=Ml0bijl4IoA&t=2s",
+    "imgUrl": "https://www.mnctrijaya.com/uploads/news/IMG-20230719-WA0025.jpg",
+    "rating": 4,
+    "genreId": 1,
+    "UserMongoId": "6502d6c86c8cab6ada3b2777"
+  },
+  {
+    "title": "Oppenheimer",
+    "slug": "oppenheimer",
+    "synopsis": "The story of J. Robert Oppenheimers role in the development of the atomic bomb during World War II.",
+    "trailerUrl": "https://www.youtube.com/watch?v=pXTvDfOjbh0",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+    "rating": 5,
+    "genreId": 2,
+    "UserMongoId": "6502d6c86c8cab6ada3b2777"
+  },
+  {
+    "title": "Past Lives",
+    "slug": "past-lives",
+    "synopsis": "Nora and Hae Sung, two deeply connected childhood friends, are wrest apart after Noras family emigrates from South Korea. 20 years later, they are reunited for one fateful week as they confront notions of love and destiny.",
+    "trailerUrl": "https://www.youtube.com/watch?v=frUv0K5J7hU",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BOTkzYmMxNTItZDAxNC00NGM0LWIyODMtMWYzMzRkMjIyMTE1XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_FMjpg_UX1000_.jpg",
+    "rating": 4,
+    "genreId": 2,
+    "UserMongoId": "6502d6c86c8cab6ada3b2777"
+  },
+  {
+    "title": "Talk to Me",
+    "slug": "talk-to-me",
+    "synopsis": "When a group of friends discover how to conjure spirits using an embalmed hand, they become hooked on the new thrill, until one of them goes too far and unleashes terrifying supernatural forces.",
+    "trailerUrl": "https://www.youtube.com/watch?v=PGo4wfCejsk",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BMmY5ZGE4NmUtZWI4OS00ZWJmLWFjMzgtOWUyZjI4NDg3Y2E5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "rating": 3,
+    "genreId": 3,
+    "UserMongoId": "6502d6c86c8cab6ada3b2777"
+  },
+  {
+    "title": "Spider Man",
+    "slug": "spider-man",
+    "synopsis": "After reuniting with Gwen Stacy, Brooklyns full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged.",
+    "trailerUrl": "https://www.youtube.com/watch?v=yFrxzaBLDQM",
+    "imgUrl": "https://cinemags.org/wp-content/uploads/2022/12/Spider-Man-Across-the-Spider-Verse-Poster.jpg",
+    "rating": 5,
+    "genreId": 4,
+    "UserMongoId": "6502d6c86c8cab6ada3b2777"
+  }
+]
