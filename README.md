@@ -11,4 +11,4 @@ The Letter Box Mobile App is designed for movie enthusiasts. It provides users w
 
 ## Preview Application
 
-You can preview the Letter Box Mobile App by clicking on the following link: [Preview Application](https://drive.google.com/drive/folders/1-7ZtBQDktb_jvlkLC4L4zBkQc5f_fUfj?usp=sharing)
+Screenshot Application: [Link to Screenshot Folder](https://drive.google.com/drive/folders/1-7ZtBQDktb_jvlkLC4L4zBkQc5f_fUfj?usp=sharing)
